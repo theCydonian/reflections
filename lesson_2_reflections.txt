@@ -1,0 +1,4 @@
+What happens when you initialize a repository? why do you need it?
+When you initialize it adds hidden files so it can act like a repository. It initializes with 0 commits. You need to initialize a repository so you can save versions of your project
+
+
