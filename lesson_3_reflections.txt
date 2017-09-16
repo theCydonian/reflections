@@ -7,5 +7,7 @@ If you break something locally, you would not want it to be uploaded.
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 When you clone a repository, you make a copy of a repository on GitHub on to your computer. When you fork, you make a duplicate of someone else's repository on GitHub's servers. Your project is connected. When you branch you make version of your repository locally.
 
-change
+What is the benefit of having a copy of the last known state of the remote stored locally?
+You can merge or work on it online.
+
 
