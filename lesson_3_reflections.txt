@@ -13,4 +13,7 @@ You can merge or work on it offline
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 Without git or github I would just share a dropbox folderwith someone. This would barely work because there is no merge, so simultaneous work on the project would be near impossible. Git and Github would be much easier.
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+You might want to do that if you are making a separate version or experimental chages. You may also want to do that when you are collaborating. That way you don't direvtly change something someone else was working on. when you're working by yourself it might be better just to use main so everything is in one place.
+
 
